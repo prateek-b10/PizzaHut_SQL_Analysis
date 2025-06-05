@@ -1,4 +1,4 @@
-#About the Project#
+# About the Project
 
 This SQL project analyzes PizzaHut sales data, focusing on sales, pizza types, pizza details and customer preferences.
 
@@ -16,7 +16,9 @@ This project analyzes PizzaHut's sales data to uncover insights into revenue pat
 
 - `pizza_types.csv`: Pizza name, category, ingredients.
 
-  Dataset used:-
+**🔗 Dataset used:** 
+
+https://github.com/prateek-b10/PizzaHut_SQL_Analysis/tree/main/Dataset
 
 **📈 Key Insight**
 
@@ -45,3 +47,8 @@ This project analyzes PizzaHut's sales data to uncover insights into revenue pat
 -Analyze the cumulative revenue generated over time.
 
 -Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+**Outcome:**
+
+
+
