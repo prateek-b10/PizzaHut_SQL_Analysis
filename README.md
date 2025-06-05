@@ -1,5 +1,6 @@
-**PizzaHut-SQL-Project**
-An end-to-end SQL project analyzing PizzaHut sales data using MySQL. Includes insights on revenue, order trends, and customer preferences.
+#About the Project#
+
+This SQL project analyzes PizzaHut sales data, focusing on sales, pizza types, pizza details and customer preferences.
 
  🍕 PizzaHut Sales Analysis using SQL
 
@@ -8,11 +9,16 @@ This project analyzes PizzaHut's sales data to uncover insights into revenue pat
 **📁 Dataset** 
 
 - `orders.csv`: Contains order timestamps.
+
 - `order_details.csv`: Quantity of each pizza per order.
+
 - `pizzas.csv`: Price and size info.
+
 - `pizza_types.csv`: Pizza name, category, ingredients.
 
-**🔍 Analysis Includes**
+  Dataset used:-
+
+**📈 Key Insight**
 
 -Retrieve the total number of orders placed.
 
