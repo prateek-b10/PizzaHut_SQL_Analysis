@@ -1,12 +1,10 @@
-# About the Project
+# 🍕🍕 PizzaHut_Sales_Analysis Using SQL
+
+## About the Project
 
 This SQL project analyzes PizzaHut sales data, focusing on sales, pizza types, pizza details and customer preferences.
 
- 🍕 PizzaHut Sales Analysis using SQL
-
-This project analyzes PizzaHut's sales data to uncover insights into revenue patterns, customer behavior, and pizza preferences using SQL.
-
-**📁 Dataset** 
+ **📁 Dataset** 
 
 - `orders.csv`: Contains order timestamps.
 
@@ -48,7 +46,6 @@ https://github.com/prateek-b10/PizzaHut_SQL_Analysis/tree/main/Dataset
 
 -Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-**Outcome:**
+**🎯 Outcome:**
 
-
-
+https://github.com/prateek-b10/PizzaHut_SQL_Analysis/blob/main/PizzaHut%20Sales%20SQL.pdf
